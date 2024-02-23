@@ -1,0 +1,3 @@
+- MNIST Digit Classification Using ANN
+- Coded in Kaggle
+- MNIST data included separately in case keras.datasets.mnist is not woring
